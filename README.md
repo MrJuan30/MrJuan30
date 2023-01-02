@@ -47,9 +47,6 @@
 - ✨ Redux
 - ✨ NPM
 - ✨ Node Js
-</p>
-
-<p aling="right">
 - ✨ Bootstrap
 - ✨ Git
 - ✨ GitHub
@@ -59,6 +56,7 @@
 - ✨ Tailwind Css
 - ✨ English B2
 </p>
+
 </br>
 </br>
 </br>
