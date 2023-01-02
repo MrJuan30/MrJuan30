@@ -1,4 +1,4 @@
-# Hello Everyone 👋 / Hola a todos 👋
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/1d/d2/09/1dd2095b4bb6919583a64c1d245856bb.gif">
@@ -47,6 +47,9 @@
 - ✨ Redux
 - ✨ NPM
 - ✨ Node Js
+</p>
+
+<p aling="right">
 - ✨ Bootstrap
 - ✨ Git
 - ✨ GitHub
@@ -54,7 +57,7 @@
 - ✨ Framer Motion
 - ✨ Material UI
 - ✨ Tailwind Css
-
+- ✨ English B2
 </p>
 </br>
 </br>
@@ -62,7 +65,7 @@
 
 
 
-# Contact Me :
+<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
 <p>
  </br>
@@ -95,5 +98,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
+
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 
 *************
