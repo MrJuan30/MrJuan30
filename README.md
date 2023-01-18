@@ -17,6 +17,7 @@
 
 ### - Learning :
 - ✨ Next Js
+- ✨ TypeScript
 - ✨ React Native
 
 ### - Hobbies : 
