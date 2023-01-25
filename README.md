@@ -19,6 +19,7 @@
 - ✨ Next Js
 - ✨ TypeScript
 - ✨ React Native
+- ✨ Three Js
 
 ### - Hobbies : 
 - ✨ Gaming Addict
