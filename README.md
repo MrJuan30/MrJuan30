@@ -66,10 +66,6 @@
 Im also very good at writing Guides like writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation and 3D rendering and animation.
 </p>
 <br>
-</br>
-</br>
-</br>
-
 
 
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
