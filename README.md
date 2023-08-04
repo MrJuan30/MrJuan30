@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Front end and Designer Developer from Colombia.
+### - I'm 19 years old, Web Programmerm, Videogame Developer and Designer from Colombia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://thumbs.gfycat.com/SpotlessWarmheartedHog-max-1mb.gif">
 
@@ -49,6 +49,9 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 - ✨ HTML5
+- ✨ C#
+- ✨ C++
+- ✨ Photoshop
 - ✨ CSS
 - ✨ JavaScript
 - ✨ React Js
