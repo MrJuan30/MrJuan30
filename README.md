@@ -1,8 +1,4 @@
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/1d/d2/09/1dd2095b4bb6919583a64c1d245856bb.gif">
-</div>
+<h1 align="center">~  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  ~</h1>
 
 </br>
 </br>
@@ -11,7 +7,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years old, Web Programmerm, Videogame Developer and Designer from Colombia.
+### - I'm 22 years old, Web Programmerm, Videogame Developer and Designer from Colombia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://thumbs.gfycat.com/SpotlessWarmheartedHog-max-1mb.gif">
 
@@ -23,7 +19,6 @@
 
 ### - Hobbies : 
 - ✨ Gaming Addict
-- ✨ Watching Anime
 - ✨ Watch Cartoons
 - ✨ Basketball (Neighbourhood Professional XD)
 
@@ -65,7 +60,7 @@
 - ✨ Framer Motion
 - ✨ Material UI
 - ✨ Tailwind Css
-- ✨ English B2
+- ✨ English C1
 </p><br><br>
 Im also very good at writing Guides like writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation and 3D rendering and animation.
 </p>
@@ -106,6 +101,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 
 *************
