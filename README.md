@@ -9,26 +9,6 @@
 
 ### - I'm 22 years old, Web Programmerm, Videogame Developer and Designer from Colombia.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://thumbs.gfycat.com/SpotlessWarmheartedHog-max-1mb.gif">
-
-### - Learning :
-- ✨ Next Js
-- ✨ TypeScript
-- ✨ React Native
-- ✨ Three Js
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watch Cartoons
-- ✨ Basketball (Neighbourhood Professional XD)
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
 <p>
@@ -91,16 +71,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-<h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 
 *************
