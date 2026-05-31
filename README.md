@@ -7,7 +7,7 @@
 
 # About ME 💬 :
 
-### - I'm 22 years old, Web Programmerm, Videogame Developer and Designer from Colombia.
+### - I'm 18 years old, Web Programmerm, Videogame Developer and Designer from Colombia.
 
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
