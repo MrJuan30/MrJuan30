@@ -1,75 +1,135 @@
-<h1 align="center">~  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  ~</h1>
+<!--
+======================================================================
+  GitHub Profile README · Sebastian
+  Co-Founder & Business Development Lead @ ParetoLab S.A.S.
+  Última actualización: Junio 2026
+======================================================================
+-->
 
-</br>
-</br>
-</br>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Sebastian.;Co-Founder+%40+ParetoLab;El+20%25+que+mueve+el+80%25." alt="Typing SVG" />
 
-# About ME 💬 :
+<br/>
 
-### - I'm 18 years old, Web Programmerm, Videogame Developer and Designer from Colombia.
+**`Co-Founder & Business Development Lead @ ParetoLab S.A.S.`**
 
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
- <br>
-<p>
-  <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-  </div>
+Bogotá, Colombia 🇨🇴
+
+[![Website](https://img.shields.io/badge/paretolab.com-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF6B35)](https://paretolab.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6B35)](https://linkedin.com/in/TU-USUARIO)
+[![Email](https://img.shields.io/badge/Contacto-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B35)](mailto:sebastian@paretolab.com)
+
 </div>
-<div>
-  <br>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
- <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-- ✨ HTML5
-- ✨ C#
-- ✨ C++
-- ✨ Photoshop
-- ✨ CSS
-- ✨ JavaScript
-- ✨ React Js
-- ✨ Redux
-- ✨ NPM
-- ✨ Node Js
-- ✨ Bootstrap
-- ✨ Git
-- ✨ GitHub
-- ✨ SASS
-- ✨ Framer Motion
-- ✨ Material UI
-- ✨ Tailwind Css
-- ✨ English C1
-</p><br><br>
-Im also very good at writing Guides like writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation and 3D rendering and animation.
-</p>
-<br>
+---
 
+## 🇪🇸 Sobre mí
 
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+Co-fundador de **[ParetoLab](https://paretolab.com)** — una agencia digital con sede en Bogotá que opera con un modelo dual:
 
-<p>
- </br>
+- 🌐 **Websites profesionales** — Diseño y desarrollo web para cualquier negocio o persona.
+- ⚙️ **Sistemas de automatización** — CRM, chatbots con IA, y workflows para clientes premium.
 
+Mi rol es la cabeza comercial: relación con clientes, ventas, estrategia de crecimiento y desarrollo de negocio. Mi socio **Santiago Capera** lidera la parte técnica.
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://giffiles.alphacoders.com/311/3117.gif">
+> **"El 20% que mueve el 80%."**
+> Aplicamos el Principio de Pareto a los negocios: identificamos la fracción de procesos que genera la mayoría de los resultados, y la automatizamos.
 
+### Qué hace ParetoLab
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+| Servicio | Para quién |
+|---|---|
+| **Plan Presencia** — Landing page o sitio completo (4–6 secciones), pago único, hosting año 1 incluido, dominio a nombre del cliente. | Profesionales y negocios que necesitan presencia digital seria, sin amarres. |
+| **Plan Captura** — Setup + mensualidad. CRM, chatbot IA, missed call text-back, agendamiento automático, automatización de reseñas Google. | Negocios que ya tienen tráfico pero pierden leads por falta de seguimiento. |
+| **Plan Conversión** — Setup + mensualidad. Lo anterior + funnels, integración con lead ads, pipeline avanzado, reportería mensual. | Negocios listos para escalar adquisición de clientes de forma sistemática. |
 
-<a href="mailto:sebastiancantorvc@gmail.com?Subject=Job%20Opportunity">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/juan-cantor-vaca/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://steamcommunity.com/id/MrJuan30/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
+Verticales fuertes: **clínicas dentales y estéticas, despachos legales, profesionales independientes**.
 
-*************
+---
+
+## 🇺🇸 About me
+
+Co-founder of **[ParetoLab](https://paretolab.com)** — a Bogotá-based digital agency operating under a dual-service model:
+
+- 🌐 **Professional websites** — Web design & development for any business or individual.
+- ⚙️ **Automation systems** — CRM, AI chatbots, and workflows for premium clients.
+
+I lead the business side: client relationships, sales, growth strategy, and business development. My co-founder **Santiago Capera** leads the technical side.
+
+> **"The 20% that drives 80% of results."**
+> We apply the Pareto Principle to business operations: identify the small fraction of processes that generates the majority of outcomes, and automate it.
+
+---
+
+## 🛠️ Stack & Herramientas / Stack & Tools
+
+**Web Development**
+![Astro](https://img.shields.io/badge/Astro-0D0D0D?style=flat-square&logo=astro&logoColor=FF6B35)
+![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=FF6B35)
+![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=FF6B35)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=FF6B35)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D0D0D?style=flat-square&logo=tailwindcss&logoColor=FF6B35)
+
+**Automatización & Integraciones / Automation & Integrations**
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_Business_API-0D0D0D?style=flat-square&logo=whatsapp&logoColor=FF6B35)
+![n8n](https://img.shields.io/badge/Workflow_Automation-0D0D0D?style=flat-square&logoColor=FF6B35)
+![OpenAI](https://img.shields.io/badge/AI_Chatbots-0D0D0D?style=flat-square&logo=openai&logoColor=FF6B35)
+![Zapier](https://img.shields.io/badge/Integrations-0D0D0D?style=flat-square&logoColor=FF6B35)
+
+**Business & Ops**
+![Notion](https://img.shields.io/badge/Notion-0D0D0D?style=flat-square&logo=notion&logoColor=FF6B35)
+![Figma](https://img.shields.io/badge/Figma-0D0D0D?style=flat-square&logo=figma&logoColor=FF6B35)
+![Canva](https://img.shields.io/badge/Canva-0D0D0D?style=flat-square&logo=canva&logoColor=FF6B35)
+![Loom](https://img.shields.io/badge/Loom-0D0D0D?style=flat-square&logo=loom&logoColor=FF6B35)
+
+---
+
+## 🎯 En qué estoy / What I'm focused on
+
+```yaml
+ahora:
+  - Escalando ParetoLab hacia $100K USD/mes
+  - Onboarding de clientes piloto (Junio 2026)
+  - Construyendo procesos comerciales replicables
+
+ahora_en:
+  - Scaling ParetoLab to $100K USD/month
+  - Onboarding pilot clients (June 2026)
+  - Building replicable sales processes
+
+aprendiendo:
+  - Outbound estructurado (Frankie Fihn, Sam McKenna)
+  - Sales engineering en mercados latinos
+  - Operaciones de agencia escalables
+```
+
+---
+
+## 💬 Filosofía / Philosophy
+
+**ES** — No vendemos herramientas, vendemos resultados. No mencionamos la tecnología de fondo: el cliente paga por una máquina que funcione, no por la lista de software que la mueve. Si una clínica recupera 8 pacientes que estaban perdidos, eso es lo que importa — no el stack.
+
+**EN** — We don't sell tools, we sell outcomes. We don't lead with the underlying tech: clients pay for a working system, not for a list of software. If a clinic recovers 8 leads that were slipping through the cracks, that's what matters — not the stack.
+
+---
+
+## 📫 Contacto / Contact
+
+- 🌐 **Web:** [paretolab.com](https://paretolab.com)
+- 📧 **Email:** sebastian@paretolab.com
+- 📍 **Bogotá, Colombia**
+
+> Si tenés un negocio que pierde clientes por falta de seguimiento, o necesitás una web que represente seriamente tu marca — hablemos.
+>
+> If your business is losing leads due to poor follow-up, or you need a website that properly represents your brand — let's talk.
+
+---
+
+<div align="center">
+
+<sub>**ParetoLab S.A.S.** · Bogotá, Colombia · 2026</sub>
+
+<sub>`#0D0D0D` · `#FF6B35` · `#FFFFFF`</sub>
+
+</div>
